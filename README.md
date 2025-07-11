@@ -15,6 +15,7 @@ Technologies Used:
  - Scikit-learn (Model Building & Evaluation)
 
 Steps Followed:
+
   Step 1: Data Preprocessing
    - Handled missing values
    - Extracted Year and cleaned Duration
