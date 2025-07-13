@@ -49,7 +49,7 @@ Dataset
 
 Author:
 
-T Hrashitha
+T Harshitha
 
 Codsoft Data Science Intern
 
